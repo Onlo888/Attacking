@@ -1,0 +1,329 @@
+# depslib dependency file v1.0
+1746620350 source:c:\users\ons lounissi\onedrive\desktop\attack\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	"Board.h"
+	"Player.h"
+	"Building.h"
+	"Wall.h"
+	"TownHall.h"
+	"Raider.h"
+	"GoldMine.h"
+	"ElixirCollector.h"
+
+1746114717 source:c:\users\ons lounissi\onedrive\desktop\attack\src\resources.cpp
+	"Resources.h"
+
+1746114699 c:\users\ons lounissi\onedrive\desktop\attack\include\resources.h
+
+1746457738 source:c:\users\ons lounissi\onedrive\desktop\attack\src\board.cpp
+	"Board.h"
+	"Position.h"
+	"Player.h"
+	<algorithm>
+
+1746620169 c:\users\ons lounissi\onedrive\desktop\attack\include\board.h
+	"Position.h"
+	"Building.h"
+	"TownHall.h"
+	"Entity.h"
+	<vector>
+
+1745771494 source:c:\users\ons lounissi\onedrive\desktop\attack\src\position.cpp
+	"Position.h"
+	<cstdlib>
+
+1745771220 c:\users\ons lounissi\onedrive\desktop\attack\include\position.h
+
+1746128403 source:c:\users\ons lounissi\onedrive\desktop\attack\src\building.cpp
+	"Building.h"
+	"Board.h"
+
+1746114808 c:\users\ons lounissi\onedrive\desktop\attack\include\building.h
+	"Position.h"
+	"Resources.h"
+	<iostream>
+
+1745781986 source:c:\users\ons lounissi\onedrive\desktop\attack\src\wall.cpp
+	"Wall.h"
+
+1745776053 c:\users\ons lounissi\onedrive\desktop\attack\include\wall.h
+	"Resources.h"
+	<Building.h>
+
+1746115186 source:c:\users\ons lounissi\onedrive\desktop\attack\src\townhall.cpp
+	"TownHall.h"
+
+1746115204 c:\users\ons lounissi\onedrive\desktop\attack\include\townhall.h
+	"Resources.h"
+	"Building.h"
+
+1745782616 source:c:\users\ons lounissi\onedrive\desktop\attack\src\resourcegenerator.cpp
+	"ResourceGenerator.h"
+
+1746623749 c:\users\ons lounissi\onedrive\desktop\attack\include\resourcegenerator.h
+	"Board.h"
+	<Building.h>
+
+1745782675 source:c:\users\ons lounissi\onedrive\desktop\attack\src\elixircollector.cpp
+	"ElixirCollector.h"
+
+1745782542 c:\users\ons lounissi\onedrive\desktop\attack\include\elixircollector.h
+	"Resources.h"
+	<ResourceGenerator.h>
+
+1745782688 source:c:\users\ons lounissi\onedrive\desktop\attack\src\goldmine.cpp
+	"GoldMine.h"
+	"GoldMine.h"
+
+1745782322 c:\users\ons lounissi\onedrive\desktop\attack\include\goldmine.h
+	"Resources.h"
+	<ResourceGenerator.h>
+
+1746620558 c:\users\ons lounissi\onedrive\desktop\attack\include\entity.h
+	"Position.h"
+
+1746620604 c:\users\ons lounissi\onedrive\desktop\attack\include\player.h
+	"Resources.h"
+	"Board.h"
+	<Entity.h>
+	"Raider.h"
+
+1746045396 source:c:\users\ons lounissi\onedrive\desktop\attack\src\entity.cpp
+	"Entity.h"
+	"Board.h"
+
+1746530833 source:c:\users\ons lounissi\onedrive\desktop\attack\src\enemy.cpp
+	"Enemy.h"
+	"Building.h"
+
+1746530863 c:\users\ons lounissi\onedrive\desktop\attack\include\enemy.h
+	"Board.h"
+	<Npc.h>
+
+1746129712 c:\users\ons lounissi\onedrive\desktop\attack\include\npc.h
+	"Board.h"
+	"Position.h"
+	<Entity.h>
+
+1746114974 source:c:\users\ons lounissi\onedrive\desktop\attack\src\npc.cpp
+	"Npc.h"
+
+1746620242 source:c:\users\ons lounissi\onedrive\desktop\attack\src\player.cpp
+	"Player.h"
+	"GoldMine.h"
+	"ElixirCollector.h"
+	"Wall.h"
+	"Building.h"
+	"Raider.h"
+
+1746613761 source:c:\users\ons lounissi\onedrive\desktop\attack\src\raider.cpp
+	"Raider.h"
+	<limits>
+	<ctime>
+	<windows.h>
+
+1746613746 c:\users\ons lounissi\onedrive\desktop\attack\include\raider.h
+	"Building.h"
+	"Board.h"
+	<vector>
+	<ctime>
+	<Enemy.h>
+
+1746121611 source:c:\users\ons lounissi\onedrive\desktop\attack\src\humanplayer.cpp
+	"HumanPlayer.h"
+
+1746121619 c:\users\ons lounissi\onedrive\desktop\attack\include\humanplayer.h
+	"Board.h"
+	"Player.h"
+
+1746784367 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"Board.h"
+	"Player.h"
+	"Building.h"
+	"Wall.h"
+	"TownHall.h"
+	"Raider.h"
+	"GoldMine.h"
+	"ElixirCollector.h"
+
+1747172713 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\board.h
+	"Position.h"
+	"Building.h"
+	"TownHall.h"
+	"Entity.h"
+	<vector>
+
+1747171944 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\position.h
+	<cmath>
+
+1747136632 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\building.h
+	"Position.h"
+	"Resources.h"
+	<iostream>
+
+1746114699 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\resources.h
+
+1746115204 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\townhall.h
+	"Resources.h"
+	"Building.h"
+
+1747120330 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\entity.h
+	"Position.h"
+
+1747167002 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\player.h
+	"Resources.h"
+	"Board.h"
+	<Entity.h>
+	"Raider.h"
+
+1746730936 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\raider.h
+	"Building.h"
+	"Board.h"
+	<vector>
+	<ctime>
+	<Enemy.h>
+
+1747225585 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\enemy.h
+	"Board.h"
+	<Npc.h>
+	<cmath>
+
+1747238907 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\npc.h
+	"Board.h"
+	"Position.h"
+	<Entity.h>
+
+1745776053 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\wall.h
+	"Resources.h"
+	<Building.h>
+
+1745782322 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\goldmine.h
+	"Resources.h"
+	<ResourceGenerator.h>
+
+1746623749 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\resourcegenerator.h
+	"Board.h"
+	<Building.h>
+
+1745782542 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\elixircollector.h
+	"Resources.h"
+	<ResourceGenerator.h>
+
+1746784409 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\board.cpp
+	"Board.h"
+	"Position.h"
+	"Player.h"
+	<algorithm>
+
+1746727042 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\building.cpp
+	"Building.h"
+	"Board.h"
+
+1745782675 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\elixircollector.cpp
+	"ElixirCollector.h"
+
+1747168332 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\enemy.cpp
+	"Enemy.h"
+	"Building.h"
+
+1746045396 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\entity.cpp
+	"Entity.h"
+	"Board.h"
+
+1745782688 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\goldmine.cpp
+	"GoldMine.h"
+	"GoldMine.h"
+
+1746726709 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\npc.cpp
+	"Npc.h"
+
+1747171238 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\player.cpp
+	"Player.h"
+	"GoldMine.h"
+	"ElixirCollector.h"
+	"Wall.h"
+	"Building.h"
+	"Raider.h"
+	"Troop.h"
+	"Barrack.h"
+
+1745771494 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\position.cpp
+	"Position.h"
+	<cstdlib>
+
+1747225504 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\raider.cpp
+	"Raider.h"
+	<limits>
+	<ctime>
+	<windows.h>
+
+1746623721 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\resourcegenerator.cpp
+	"ResourceGenerator.h"
+
+1746114717 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\resources.cpp
+	"Resources.h"
+
+1746115186 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\townhall.cpp
+	"TownHall.h"
+
+1745781986 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\wall.cpp
+	"Wall.h"
+
+1747119200 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\archer.cpp
+	"Archer.h"
+
+1747119211 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\archer.h
+	"Troop.h"
+	"Position.h"
+
+1747239015 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\troop.h
+	"Entity.h"
+	"Enemy.h"
+	"Position.h"
+	<vector>
+
+1747119926 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\barbarian.cpp
+	"Barbarian.h"
+	"Enemy.h"
+
+1747119664 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\barbarian.h
+	"Troop.h"
+	"Position.h"
+
+1747120114 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\barrack.cpp
+	"Barrack.h"
+	"Board.h"
+
+1747120125 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\barrack.h
+	"Building.h"
+	"Troop.h"
+	<queue>
+
+1747225743 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\bomberman.cpp
+	"Bomberman.h"
+	"Wall.h"
+
+1747135418 c:\users\ons lounissi\onedrive\desktop\b9odret rabi\include\bomberman.h
+	<Enemy.h>
+
+1747225199 source:c:\users\ons lounissi\onedrive\desktop\b9odret rabi\src\troop.cpp
+	"Troop.h"
+	"Npc.h"
+	"Board.h"
+	<cmath>
+	<limits>
+
